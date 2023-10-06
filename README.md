@@ -20,6 +20,6 @@ In today's world, where remote work and distributed teams are the norm, tools th
 
 ## 🔗 Try It Out! 🔗
 
-### 🌐 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨: https://lnkd.in/d8sqYu3J
+### 🌐 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨: https://github.com/keshavop/CodeSync-IDE
 
-### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛:https://dub.sh/codesyncide
+### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛: https://codesyncide.vercel.app
