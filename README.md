@@ -23,3 +23,7 @@ In today's world, where remote work and distributed teams are the norm, tools th
 ### 🌐 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨: https://codesyncide.vercel.app
 
 ### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛: https://github.com/keshavop/CodeSync-IDE
+
+### Demo 🧑‍💻
+https://github.com/keshavop/CodeSync-IDE/assets/71931145/8bef7036-4e93-473b-b139-6d5b5c8d2d0c
+
